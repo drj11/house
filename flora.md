@@ -1,54 +1,49 @@
-Near house
-==========
+## Near house
 
-Tanacetum parthenium
-Cymbalaria muralis
-Filipendula ulmaria
-Laurus nobilis
+- Tanacetum parthenium
+- Cymbalaria muralis
+- Filipendula ulmaria
+- Laurus nobilis
 
-Northern fence
-==============
+## Northern fence
 
-Forsythia sp.
-Aquilegia sp.
-Hyacinthoides non-scripta
-Leucanthemum vulgare
-Buddleja sp.
-Syringa meyeri - Palibin ?
-Weigela florida - Foliis Purpureis ?
-Cotoneaster horizontalis
+- Forsythia sp.
+- Aquilegia sp.
+- Hyacinthoides non-scripta
+- Leucanthemum vulgare
+- Buddleja sp.
+- Syringa meyeri - Palibin ?
+- Weigela florida - Foliis Purpureis ?
+- Cotoneaster horizontalis
 
-Betula pendula
+- Betula pendula
 
-various Rosaceae
-Aloysia triphylla
-Lavandula angustifolia
-Sanguisorba minor
-Ajuga reptans
-Achillea millefolium
-Achillea ageratum
-Ilex aquifolium
+- various Rosaceae
+- Aloysia triphylla
+- Lavandula angustifolia
+- Sanguisorba minor
+- Ajuga reptans
+- Achillea millefolium
+- Achillea ageratum
+- Ilex aquifolium
 
-Eastern extremity
-=================
+## Eastern extremity
 
-Prunus sp.
+- Prunus sp.
 
-Southern border
-===============
+## Southern border
 
-Carex pendula
-Salix sp
-Pyrus sp
-Acer palmatum
-Malus domestica
+- Carex pendula
+- Salix sp
+- Pyrus sp
+- Acer palmatum
+- Malus domestica
 
 
-Front garden
-============
+## Front garden
 
-Kerria japonica
-Foeniculum vulgare
-Sorbus aucuparia
-Taxus baccata
+- Kerria japonica
+- Foeniculum vulgare
+- Sorbus aucuparia
+- Taxus baccata
 
