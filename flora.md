@@ -19,13 +19,18 @@
 
 - Betula pendula
 
-- various Rosaceae
 - Aloysia triphylla
+- Thymus spp.
+- Petroselinum sp. ?
+- Rosemarinus sp. ?
+- Marjorum sp. ?
 - Lavandula angustifolia
 - Sanguisorba minor
 - Ajuga reptans
 - Achillea millefolium
 - Achillea ageratum
+
+- Allium spp.
 - Ilex aquifolium
 
 ## Eastern extremity
@@ -47,4 +52,5 @@
 - Foeniculum vulgare
 - Sorbus aucuparia
 - Taxus baccata
+- Veronica sp.
 
