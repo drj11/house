@@ -4,6 +4,7 @@
 - Cymbalaria muralis
 - Filipendula ulmaria
 - Laurus nobilis
+- Myrtus communis ?
 
 ## Northern fence
 
