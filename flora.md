@@ -12,7 +12,7 @@
 - Aquilegia sp.
 - Hyacinthoides non-scripta
 - Leucanthemum vulgare
-- Buddleja sp.
+- Buddleja davidii
 - Syringa meyeri - Palibin ?
 - Weigela florida - Foliis Purpureis ?
 - Cotoneaster horizontalis
@@ -20,8 +20,11 @@
 - Betula pendula
 
 - Aloysia triphylla
+- Thymus citriodorus
+- Thymus pulegioides
+- Thymus vulgaris
 - Thymus spp.
-- Petroselinum sp.
+- Petroselinum crispum
 - Rosmarinus sp.
 - Oreganum Majorana
 - Lavandula angustifolia
