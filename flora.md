@@ -4,7 +4,7 @@
 - Cymbalaria muralis
 - Filipendula ulmaria
 - Laurus nobilis
-- Myrtus communis ?
+- Myrtus communis
 
 ## Northern fence
 
@@ -21,9 +21,9 @@
 
 - Aloysia triphylla
 - Thymus spp.
-- Petroselinum sp. ?
-- Rosemarinus sp. ?
-- Marjorum sp. ?
+- Petroselinum sp.
+- Rosmarinus sp.
+- Oreganum Majorana
 - Lavandula angustifolia
 - Sanguisorba minor
 - Ajuga reptans
