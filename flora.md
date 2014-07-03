@@ -4,7 +4,6 @@
 - Cymbalaria muralis
 - Filipendula ulmaria
 - Laurus nobilis
-- Myrtus communis
 
 ## Northern fence
 
@@ -16,6 +15,7 @@
 - Syringa meyeri - Palibin ?
 - Weigela florida - Foliis Purpureis ?
 - Cotoneaster horizontalis
+- Myrtus communis
 
 - Betula pendula
 
