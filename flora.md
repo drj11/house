@@ -47,10 +47,12 @@
 - Pyrus sp
 - Acer palmatum
 - Malus domestica
+- Spiraea sp. (possibly Spiraea japonica 'Candlelight')
 
 
 ## Front garden
 
+- Dianthus barbatus
 - Kerria japonica
 - Foeniculum vulgare
 - Sorbus aucuparia
