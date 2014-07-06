@@ -48,6 +48,7 @@
 - Acer palmatum
 - Malus domestica
 - Spiraea sp. (possibly Spiraea japonica 'Candlelight')
+- Hypericum sp. (possibly Hypericum × inodorum 'Elstead')
 
 
 ## Front garden
