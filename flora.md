@@ -57,6 +57,7 @@
 - Kerria japonica
 - Foeniculum vulgare
 - Sorbus aucuparia
+- Anthriscus cerefolium
 - Taxus baccata
 - Veronica sp.
 
