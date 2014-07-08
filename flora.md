@@ -32,6 +32,7 @@
 - Ajuga reptans
 - Achillea millefolium
 - Achillea ageratum
+- Crocosmia sp (perhaps Crocosmia masoniorum or hybrid)
 
 - Allium spp.
 - Ilex aquifolium
