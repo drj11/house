@@ -34,12 +34,15 @@
 - Achillea ageratum
 - Crocosmia sp (perhaps Crocosmia masoniorum or hybrid)
 
+- Euonymus europaeus (dubious?)
+
 - Allium spp.
 - Ilex aquifolium
 
 ## Eastern extremity
 
 - Prunus sp.
+- Weigela sp.
 
 ## Southern border
 
