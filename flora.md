@@ -15,7 +15,7 @@
 - Syringa meyeri - Palibin ?
 - Weigela florida - Foliis Purpureis ?
 - Cotoneaster horizontalis
-- Myrtus communis
+- Lonicera nitida
 
 - Betula pendula
 
