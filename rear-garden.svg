@@ -99,16 +99,6 @@
        x="177.16484"
        y="267.91296" />
     <path
-       sodipodi:type="arc"
-       style="opacity:0.61316868999999996;fill:#d2ea5d;fill-opacity:1;stroke:none"
-       id="path3789"
-       sodipodi:cx="403.74396"
-       sodipodi:cy="672.50842"
-       sodipodi:rx="118.25636"
-       sodipodi:ry="118.25636"
-       d="m 522.00032,672.50842 c 0,65.31119 -52.94518,118.25637 -118.25636,118.25637 -65.31119,0 -118.25637,-52.94518 -118.25637,-118.25637 0,-65.31118 52.94518,-118.25636 118.25637,-118.25636 65.31118,0 118.25636,52.94518 118.25636,118.25636 z"
-       transform="translate(8.7390094,27.473701)" />
-    <path
        transform="translate(-217.26099,27.473701)"
        d="m 512.44424,672.50842 c 0,60.03351 -48.66677,108.70029 -108.70028,108.70029 -60.03351,0 -108.70029,-48.66678 -108.70029,-108.70029 0,-60.03351 48.66678,-108.70028 108.70029,-108.70028 60.03351,0 108.70028,48.66677 108.70028,108.70028 z"
        sodipodi:ry="108.70029"
@@ -189,29 +179,15 @@
        style="display:inline;fill:#c87137;fill-opacity:1;stroke:none"
        transform="matrix(0.88398012,0.4675245,-0.4675245,0.88398012,0,-2.5390623e-6)" />
     <path
-       sodipodi:type="arc"
-       style="display:inline;fill:#76d776;fill-opacity:1;stroke:none"
-       id="path3059"
-       sodipodi:cx="249.65233"
-       sodipodi:cy="357.15811"
-       sodipodi:rx="53.752892"
-       sodipodi:ry="53.752892"
-       d="m 303.40522,357.15811 c 0,29.6869 -24.06599,53.75289 -53.75289,53.75289 -29.6869,0 -53.75289,-24.06599 -53.75289,-53.75289 0,-29.6869 24.06599,-53.75289 53.75289,-53.75289 29.6869,0 53.75289,24.06599 53.75289,53.75289 z"
-       transform="translate(-22.695666,35.473698)"
-       inkscape:label="apple tree">
-      <title
-         id="title3075">apple tree</title>
-    </path>
-    <path
        inkscape:label="apple tree"
-       transform="matrix(0.26367378,0,0,0.26367378,381.95312,183.94662)"
-       d="m 303.40522,357.15811 c 0,29.6869 -24.06599,53.75289 -53.75289,53.75289 -29.6869,0 -53.75289,-24.06599 -53.75289,-53.75289 0,-29.6869 24.06599,-53.75289 53.75289,-53.75289 29.6869,0 53.75289,24.06599 53.75289,53.75289 z"
+       transform="matrix(0.26367378,0,0,0.26367378,305.50456,683.25127)"
+       d="m 303.40522,357.15811 a 53.752892,53.752892 0 1 1 -107.50578,0 53.752892,53.752892 0 1 1 107.50578,0 z"
        sodipodi:ry="53.752892"
        sodipodi:rx="53.752892"
        sodipodi:cy="357.15811"
        sodipodi:cx="249.65233"
        id="path3079"
-       style="display:inline;fill:#333333;fill-opacity:1;stroke:none"
+       style="fill:#333333;fill-opacity:1;stroke:none;display:inline"
        sodipodi:type="arc">
       <title
          id="title3081">apple tree</title>
@@ -251,6 +227,58 @@
        sodipodi:type="arc">
       <title
          id="title3093">apple tree</title>
+    </path>
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.61316868999999996;fill:#d2ea5d;fill-opacity:1;stroke:none"
+       id="path3789"
+       sodipodi:cx="403.74396"
+       sodipodi:cy="672.50842"
+       sodipodi:rx="118.25636"
+       sodipodi:ry="118.25636"
+       d="m 522.00032,672.50842 c 0,65.31119 -52.94518,118.25637 -118.25636,118.25637 -65.31119,0 -118.25637,-52.94518 -118.25637,-118.25637 0,-65.31118 52.94518,-118.25636 118.25637,-118.25636 65.31118,0 118.25636,52.94518 118.25636,118.25636 z"
+       transform="translate(8.7390094,27.473701)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#eda29a;fill-opacity:1;stroke:none;display:inline"
+       id="path3780"
+       sodipodi:cx="249.65233"
+       sodipodi:cy="357.15811"
+       sodipodi:rx="53.752892"
+       sodipodi:ry="53.752892"
+       d="m 303.40522,357.15811 a 53.752892,53.752892 0 1 1 -107.50578,0 53.752892,53.752892 0 1 1 107.50578,0 z"
+       transform="matrix(0.39551068,0,0,0.39551068,105.27952,311.33872)"
+       inkscape:label="apple tree">
+      <title
+         id="title3782">apple tree</title>
+    </path>
+    <path
+       sodipodi:type="arc"
+       style="display:inline;fill:#76d776;fill-opacity:1;stroke:none"
+       id="path3059"
+       sodipodi:cx="249.65233"
+       sodipodi:cy="357.15811"
+       sodipodi:rx="53.752892"
+       sodipodi:ry="53.752892"
+       d="m 303.40522,357.15811 c 0,29.6869 -24.06599,53.75289 -53.75289,53.75289 -29.6869,0 -53.75289,-24.06599 -53.75289,-53.75289 0,-29.6869 24.06599,-53.75289 53.75289,-53.75289 29.6869,0 53.75289,24.06599 53.75289,53.75289 z"
+       transform="translate(-22.695666,35.473698)"
+       inkscape:label="apple tree">
+      <title
+         id="title3075">apple tree</title>
+    </path>
+    <path
+       inkscape:label="apple tree"
+       transform="translate(-31.057227,133.42341)"
+       d="m 283.09857,357.15811 a 33.446243,33.446243 0 1 1 -66.89248,0 33.446243,33.446243 0 1 1 66.89248,0 z"
+       sodipodi:ry="33.446243"
+       sodipodi:rx="33.446243"
+       sodipodi:cy="357.15811"
+       sodipodi:cx="249.65233"
+       id="path3784"
+       style="fill:#76d776;fill-opacity:1;stroke:none;display:inline"
+       sodipodi:type="arc">
+      <title
+         id="title3786">apple tree</title>
     </path>
   </g>
   <g
