@@ -114,20 +114,11 @@
        id="rect3793"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccaccc" />
-    <rect
+    <path
        style="fill:#f3a876;fill-opacity:1;stroke:none"
-       id="rect3796"
-       width="88.192917"
-       height="21.259842"
-       x="411.41287"
-       y="185.70825" />
-    <rect
-       y="115.19645"
-       x="478.70026"
-       height="70.51181"
-       width="20.905512"
-       id="rect3063"
-       style="fill:#f3a876;fill-opacity:1;stroke:none" />
+       d="M 478.6875 115.1875 L 478.6875 185.71875 L 411.40625 185.71875 L 411.40625 206.96875 L 499.59375 206.96875 L 499.59375 185.71875 L 499.59375 115.1875 L 478.6875 115.1875 z "
+       transform="translate(0,2.5390623e-6)"
+       id="rect3796" />
     <rect
        y="103.50342"
        x="295.16486"
@@ -178,42 +169,6 @@
        id="rect3087"
        style="display:inline;fill:#c87137;fill-opacity:1;stroke:none"
        transform="matrix(0.88398012,0.4675245,-0.4675245,0.88398012,0,-2.5390623e-6)" />
-    <path
-       inkscape:label="apple tree"
-       transform="matrix(0.26367378,0,0,0.26367378,305.50456,683.25127)"
-       d="m 303.40522,357.15811 a 53.752892,53.752892 0 1 1 -107.50578,0 53.752892,53.752892 0 1 1 107.50578,0 z"
-       sodipodi:ry="53.752892"
-       sodipodi:rx="53.752892"
-       sodipodi:cy="357.15811"
-       sodipodi:cx="249.65233"
-       id="path3079"
-       style="fill:#333333;fill-opacity:1;stroke:none;display:inline"
-       sodipodi:type="arc">
-      <title
-         id="title3081">apple tree</title>
-    </path>
-    <path
-       sodipodi:type="arc"
-       style="display:inline;fill:#333333;fill-opacity:1;stroke:none"
-       id="path3083"
-       sodipodi:cx="249.65233"
-       sodipodi:cy="357.15811"
-       sodipodi:rx="53.752892"
-       sodipodi:ry="53.752892"
-       d="m 303.40522,357.15811 c 0,29.6869 -24.06599,53.75289 -53.75289,53.75289 -29.6869,0 -53.75289,-24.06599 -53.75289,-53.75289 0,-29.6869 24.06599,-53.75289 53.75289,-53.75289 29.6869,0 53.75289,24.06599 53.75289,53.75289 z"
-       transform="matrix(0.23071456,0,0,0.26367378,424.24507,140.94431)"
-       inkscape:label="apple tree">
-      <title
-         id="title3085">apple tree</title>
-    </path>
-    <rect
-       transform="translate(0,-2.5390623e-6)"
-       style="display:inline;fill:#800000;fill-opacity:1;stroke:none"
-       id="rect3089"
-       width="8.1141729"
-       height="53.149605"
-       x="224.59048"
-       y="518.56946" />
     <path
        inkscape:label="apple tree"
        transform="matrix(0.39551068,0,0,0.39551068,100.50149,172.77571)"
@@ -279,6 +234,48 @@
        sodipodi:type="arc">
       <title
          id="title3786">apple tree</title>
+    </path>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Movable"
+     style="display:inline">
+    <path
+       sodipodi:type="arc"
+       style="fill:#333333;fill-opacity:1;stroke:none;display:inline"
+       id="path3083"
+       sodipodi:cx="249.65233"
+       sodipodi:cy="357.15811"
+       sodipodi:rx="53.752892"
+       sodipodi:ry="53.752892"
+       d="m 303.40522,357.15811 a 53.752892,53.752892 0 1 1 -107.50578,0 53.752892,53.752892 0 1 1 107.50578,0 z"
+       transform="matrix(0.23071456,0,0,0.26367378,424.24507,140.94431)"
+       inkscape:label="apple tree">
+      <title
+         id="title3085">apple tree</title>
+    </path>
+    <rect
+       transform="translate(0,-5.0781246e-6)"
+       style="fill:#800000;fill-opacity:1;stroke:none;display:inline"
+       id="rect3089"
+       width="8.1141729"
+       height="53.149605"
+       x="224.59048"
+       y="518.56946" />
+    <path
+       inkscape:label="apple tree"
+       transform="matrix(0.26367378,0,0,0.26367378,305.50456,683.25127)"
+       d="m 303.40522,357.15811 a 53.752892,53.752892 0 1 1 -107.50578,0 53.752892,53.752892 0 1 1 107.50578,0 z"
+       sodipodi:ry="53.752892"
+       sodipodi:rx="53.752892"
+       sodipodi:cy="357.15811"
+       sodipodi:cx="249.65233"
+       id="path3079"
+       style="fill:#333333;fill-opacity:1;stroke:none;display:inline"
+       sodipodi:type="arc">
+      <title
+         id="title3081">apple tree</title>
     </path>
   </g>
   <g
