@@ -36,3 +36,7 @@ Roughly 1.8m x 1.27m.
 ## Landing
 
 ## Loft
+
+Potential space for boarding out that is easily accessed is 3m x
+3.2m (this is the area between the loft hatch and the chimney,
+and between the struts attached to the perlins.
