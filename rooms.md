@@ -29,7 +29,7 @@ skirting board. For estimating: 14.6m perimeter, 34.3 m^2 (for paint / paper).
 
 ## Bathroom
 
-Roughly 1.8m x 1.2m.
+Roughly 1.8m x 1.27m.
 
 ## Landing
 
