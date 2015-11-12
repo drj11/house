@@ -1,2 +1,6 @@
 # date,kilograms,note
 2014-11-08,2.50,Harvested the remaining apples on the tree.
+2015-11-04,1.18,
+2015-11-07,1.15,
+2015-11-08,5.19,
+2015-11-11,0.59,
