@@ -1,5 +1,2 @@
-2014-11-08
-
-Harvested the remaining apples on the tree.
-
-2.50 kg
+# date,kilograms,note
+2014-11-08,2.50,Harvested the remaining apples on the tree.
