@@ -157,7 +157,7 @@
        style="display:inline;fill:#c87137;fill-opacity:1;stroke:none"
        transform="matrix(0.88398012,0.4675245,-0.4675245,0.88398012,0,-2.5390623e-6)" />
     <path
-       inkscape:label="apple tree"
+       inkscape:label="hypericum"
        transform="matrix(0.39551068,0,0,0.39551068,100.50149,172.77571)"
        d="m 303.40522,357.15811 c 0,29.6869 -24.06599,53.75289 -53.75289,53.75289 -29.6869,0 -53.75289,-24.06599 -53.75289,-53.75289 0,-29.6869 24.06599,-53.75289 53.75289,-53.75289 29.6869,0 53.75289,24.06599 53.75289,53.75289 z"
        sodipodi:ry="53.752892"
@@ -166,10 +166,7 @@
        sodipodi:cx="249.65233"
        id="path3091"
        style="display:inline;fill:#e5e55c;fill-opacity:1;stroke:none"
-       sodipodi:type="arc">
-      <title
-         id="title3093">apple tree</title>
-    </path>
+       sodipodi:type="arc" />
     <path
        sodipodi:type="arc"
        style="opacity:0.61316868999999996;fill:#d2ea5d;fill-opacity:1;stroke:none"
@@ -179,7 +176,8 @@
        sodipodi:rx="118.25636"
        sodipodi:ry="118.25636"
        d="m 522.00032,672.50842 c 0,65.31119 -52.94518,118.25637 -118.25636,118.25637 -65.31119,0 -118.25637,-52.94518 -118.25637,-118.25637 0,-65.31118 52.94518,-118.25636 118.25637,-118.25636 65.31118,0 118.25636,52.94518 118.25636,118.25636 z"
-       transform="translate(8.7390094,27.473701)" />
+       transform="translate(8.7390094,27.473701)"
+       inkscape:label="prunus" />
     <path
        sodipodi:type="arc"
        style="fill:#eda29a;fill-opacity:1;stroke:none;display:inline"
@@ -190,10 +188,7 @@
        sodipodi:ry="53.752892"
        d="m 303.40522,357.15811 c 0,29.6869 -24.06599,53.75289 -53.75289,53.75289 -29.6869,0 -53.75289,-24.06599 -53.75289,-53.75289 0,-29.6869 24.06599,-53.75289 53.75289,-53.75289 29.6869,0 53.75289,24.06599 53.75289,53.75289 z"
        transform="matrix(0.39551068,0,0,0.39551068,105.27952,311.33872)"
-       inkscape:label="apple tree">
-      <title
-         id="title3782">apple tree</title>
-    </path>
+       inkscape:label="acer" />
     <path
        sodipodi:type="arc"
        style="display:inline;fill:#76d776;fill-opacity:1;stroke:none"
@@ -206,7 +201,7 @@
        transform="translate(-22.695666,35.473698)"
        inkscape:label="apple tree" />
     <path
-       inkscape:label="apple tree"
+       inkscape:label="pear"
        transform="translate(-31.057227,133.42341)"
        d="m 283.09857,357.15811 c 0,18.47185 -14.97439,33.44624 -33.44624,33.44624 -18.47185,0 -33.44624,-14.97439 -33.44624,-33.44624 0,-18.47185 14.97439,-33.44624 33.44624,-33.44624 18.47185,0 33.44624,14.97439 33.44624,33.44624 z"
        sodipodi:ry="33.446243"
@@ -215,10 +210,7 @@
        sodipodi:cx="249.65233"
        id="path3784"
        style="fill:#76d776;fill-opacity:1;stroke:none;display:inline"
-       sodipodi:type="arc">
-      <title
-         id="title3786">apple tree</title>
-    </path>
+       sodipodi:type="arc" />
     <rect
        style="fill:#cccccc;fill-opacity:1;stroke:none;display:inline"
        id="rect3798"
