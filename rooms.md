@@ -40,3 +40,9 @@ Roughly 1.8m x 1.27m.
 Potential space for boarding out that is easily accessed is 3m x
 3.2m (this is the area between the loft hatch and the chimney,
 and between the struts attached to the perlins.
+
+## Greenhouse
+
+The greenhouse base is roughly 3.1m x 2.5m. The exact
+measurements (taken to the outside of the wooden diaphragm) are:
+long 3177; short 2547; long 3183; short 2547
