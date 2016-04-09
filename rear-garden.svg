@@ -25,10 +25,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.83716425"
-     inkscape:cx="114.03335"
+     inkscape:cx="-84.255097"
      inkscape:cy="526.18109"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1544"
      inkscape:window-height="1028"
@@ -159,13 +159,13 @@
     <path
        inkscape:label="hypericum"
        transform="matrix(0.39551068,0,0,0.39551068,100.50149,172.77571)"
-       d="m 303.40522,357.15811 c 0,29.6869 -24.06599,53.75289 -53.75289,53.75289 -29.6869,0 -53.75289,-24.06599 -53.75289,-53.75289 0,-29.6869 24.06599,-53.75289 53.75289,-53.75289 29.6869,0 53.75289,24.06599 53.75289,53.75289 z"
+       d="m 303.40522,357.15811 a 53.752892,53.752892 0 1 1 -107.50578,0 53.752892,53.752892 0 1 1 107.50578,0 z"
        sodipodi:ry="53.752892"
        sodipodi:rx="53.752892"
        sodipodi:cy="357.15811"
        sodipodi:cx="249.65233"
        id="path3091"
-       style="display:inline;fill:#e5e55c;fill-opacity:1;stroke:none"
+       style="fill:#e5e55c;fill-opacity:1;stroke:none;display:inline"
        sodipodi:type="arc" />
     <path
        sodipodi:type="arc"
