@@ -1,0 +1,26 @@
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="outline.css">
+  <script>
+      function ipl() {
+        // Add inline style element to SVG object.
+        // http://stackoverflow.com/questions/4906148/how-to-apply-a-style-to-an-embedded-svg
+        var svg = document.getElementById("svg").contentDocument;
+        var styleElement =
+          svg.createElementNS("http://www.w3.org/2000/svg",
+          "style");
+
+//     The key (style) hack, using an attribute selector,
+//     came to me via Craig Buckler's 2009 article:
+//     http://www.sitepoint.com/override-inline-css/
+
+        styleElement.textContent = "[style] { stroke: #000 !important; fill: none !important; stroke-width: 2px !important; stroke-opacity: 1 !important; }"
+        svg.getElementById("defs4").appendChild(styleElement);
+      }
+      document.addEventListener("DOMContentLoaded", ipl);
+  </script>
+</head>
+<body>
+  <object id="svg" data="rear-garden.svg" type="image/svg+xml" />
+</body>
+</html>
