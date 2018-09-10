@@ -179,7 +179,7 @@
        sodipodi:rx="53.752892"
        sodipodi:ry="53.752892"
        d="m 303.40522,357.15811 a 53.752892,53.752892 0 1 1 -107.50578,0 53.752892,53.752892 0 1 1 107.50578,0 z"
-       transform="translate(-22.695666,9.9229803)"
+       transform="matrix(0.98877669,0,0,0.98877669,-20.497026,8.267688)"
        inkscape:label="apple tree" />
     <rect
        style="fill:#cccccc;fill-opacity:1;stroke:none;display:inline"
@@ -208,7 +208,7 @@
          x="572.16968"
          y="74.05954">y=275</tspan></text>
     <path
-       transform="translate(-217.26099,1.9229829)"
+       transform="matrix(1.0105081,0,0,1.0105081,-230.82118,7.826346)"
        d="m 512.44424,672.50842 a 108.70029,108.70029 0 1 1 -217.40057,0 108.70029,108.70029 0 1 1 217.40057,0 z"
        sodipodi:ry="108.70029"
        sodipodi:rx="108.70029"
