@@ -28,7 +28,7 @@
      inkscape:cx="372.04724"
      inkscape:cy="526.18109"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:window-width="1352"
      inkscape:window-height="1028"
@@ -55,10 +55,10 @@
      transform="translate(0,-2.5390623e-6)">
     <path
        style="fill:#a3ff9b;fill-opacity:1;stroke:none"
-       d="m 177.16485,77.952802 322.44094,0 0,602.362678 -322.44094,318.8971 z"
+       d="m 177.16485,77.952802 322.44094,0 0,602.362678 -296.21996,269.2908 -26.22098,0 z"
        id="rect2985"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
+       sodipodi:nodetypes="cccccc" />
     <rect
        style="fill:#b4330d;fill-opacity:1;stroke:none"
        id="rect3756"
@@ -256,7 +256,7 @@
     </path>
     <path
        inkscape:label="apple tree"
-       transform="matrix(0.26367378,0,0,0.26367378,126.87066,822.62055)"
+       transform="matrix(0.26367378,0,0,0.26367378,126.87066,789.17431)"
        d="m 303.40522,357.15811 a 53.752892,53.752892 0 1 1 -107.50578,0 53.752892,53.752892 0 1 1 107.50578,0 z"
        sodipodi:ry="53.752892"
        sodipodi:rx="53.752892"
@@ -320,6 +320,20 @@
        height="21.259842"
        x="443.36957"
        y="297.70825" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#333333;fill-opacity:1;stroke:none;display:inline"
+       id="path3948"
+       sodipodi:cx="249.65233"
+       sodipodi:cy="357.15811"
+       sodipodi:rx="53.752892"
+       sodipodi:ry="53.752892"
+       d="m 303.40522,357.15811 a 53.752892,53.752892 0 1 1 -107.50578,0 53.752892,53.752892 0 1 1 107.50578,0 z"
+       transform="matrix(0.26367378,0,0,0.26367378,126.87066,761.17431)"
+       inkscape:label="apple tree">
+      <title
+         id="title3950">apple tree</title>
+    </path>
   </g>
   <g
      inkscape:groupmode="layer"
