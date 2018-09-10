@@ -208,6 +208,12 @@
          x="572.16968"
          y="74.05954">y=275</tspan></text>
     <path
+       style="fill:#ff8080;fill-opacity:1;stroke:none"
+       d="m 198.4252,702.77164 87.87401,-21.25985 0,21.25984 -87.87401,21.25985 z"
+       id="rect3943"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
        transform="matrix(1.0105081,0,0,1.0105081,-230.82118,7.826346)"
        d="m 512.44424,672.50842 a 108.70029,108.70029 0 1 1 -217.40057,0 108.70029,108.70029 0 1 1 217.40057,0 z"
        sodipodi:ry="108.70029"
